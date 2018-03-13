@@ -1,6 +1,7 @@
 /*
 Samuel Pittman
 Program to "decode" a string of characters that is shifted 
+Last Change: 12 March 2018
 Current state: Not returning accurate statements (shifting too much), the iterator in letterShift() can go out of bounds; TL;DR: iterator issues
 */
 
